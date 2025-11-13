@@ -2,7 +2,7 @@
 
 This project is a responsive 3-column card layout that showcases different car types — Sedan, SUV, and Luxury. Each card includes an icon, a short description, and a button.
 
-## Technologies Used
+## Tools Used
 - **HTML** for the structure  
 - **CSS** for styling and layout  
 - **Flexbox** for responsive alignment  
